@@ -1,0 +1,38 @@
+{
+  "files": {
+    "app.js": "/InstagramClone/static/js/app.65c27312.chunk.js",
+    "app.js.map": "/InstagramClone/static/js/app.65c27312.chunk.js.map",
+    "runtime~app.js": "/InstagramClone/static/js/runtime~app.c90c88b1.js",
+    "runtime~app.js.map": "/InstagramClone/static/js/runtime~app.c90c88b1.js.map",
+    "static/js/2.93cb4857.chunk.js": "/InstagramClone/static/js/2.93cb4857.chunk.js",
+    "static/js/2.93cb4857.chunk.js.map": "/InstagramClone/static/js/2.93cb4857.chunk.js.map",
+    "fonts/AntDesign.ttf": "/InstagramClone/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/InstagramClone/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/InstagramClone/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/InstagramClone/./fonts/FontAwesome.ttf",
+    "fonts/Foundation.ttf": "/InstagramClone/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/InstagramClone/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/InstagramClone/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/InstagramClone/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/InstagramClone/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/InstagramClone/favicon-16.png",
+    "favicon-32.png": "/InstagramClone/favicon-32.png",
+    "favicon.ico": "/InstagramClone/favicon.ico",
+    "index.html": "/InstagramClone/index.html",
+    "manifest.json": "/InstagramClone/manifest.json",
+    "serve.json": "/InstagramClone/serve.json",
+    "static/media/bell.png": "/InstagramClone/static/media/bell.a7b9dc9d.png",
+    "static/media/heart.png": "/InstagramClone/static/media/heart.2327736b.png",
+    "static/media/img1.jpg": "/InstagramClone/static/media/img1.adb55f51.jpg",
+    "static/media/img2.jpg": "/InstagramClone/static/media/img2.4e84f5cc.jpg",
+    "static/media/img3.jpg": "/InstagramClone/static/media/img3.c33dfeb8.jpg",
+    "static/media/img4.jpg": "/InstagramClone/static/media/img4.6c4f44cf.jpg",
+    "static/media/rocket.png": "/InstagramClone/static/media/rocket.51671417.png",
+    "static/media/star.png": "/InstagramClone/static/media/star.004c2bbb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.c90c88b1.js",
+    "static/js/2.93cb4857.chunk.js",
+    "static/js/app.65c27312.chunk.js"
+  ]
+}
